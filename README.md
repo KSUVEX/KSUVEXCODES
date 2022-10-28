@@ -1,10 +1,11 @@
-# KSU-VEX-CODE
+
 
 ## Getting started
 First download Github desktop 
 https://desktop.github.com
 
 then watch a guide to how to use Github desktop:
+
 https://www.youtube.com/watch?v=RPagOAUx2SQ
 
 https://www.youtube.com/watch?v=77W2JSL7-r8&t
@@ -17,3 +18,8 @@ when u finish a task u first make a quick summery of what u did then a discrepti
 then commit it to your assigned branch then **PUSH TO ORIGIN** and ask for a **PULLREQUEST**
 
 **DO NOT MERGE TO THE MAIN BRANCH**
+
+## Directory Structure
+```bash
+├── cereal              # 24inch robot code
+```
