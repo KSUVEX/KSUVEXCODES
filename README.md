@@ -21,5 +21,5 @@ then commit it to your assigned branch then **PUSH TO ORIGIN** and ask for a **P
 
 ## Directory Structure
 ```bash
-├── cereal              # 24inch robot code
+├── VEX-MAIN-CODE              # 24inch robot code
 ```
