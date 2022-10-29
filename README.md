@@ -1,8 +1,17 @@
 
 
 ## Getting started
-First download Github desktop 
+
+download vexcode v5 pro
+
+https://www.vexrobotics.com/vexcode/install/v5
+
+
+download Github desktop (to collaborate on the project)
+
 https://desktop.github.com
+
+
 
 then watch a guide to how to use Github desktop:
 
@@ -18,6 +27,9 @@ when u finish a task u first make a quick summery of what u did then a discrepti
 then commit it to your assigned branch then **PUSH TO ORIGIN** and ask for a **PULLREQUEST**
 
 **DO NOT MERGE TO THE MAIN BRANCH**
+
+## resources
+- https://api.vexcode.cloud/v5/
 
 ## Directory Structure
 ```bash
